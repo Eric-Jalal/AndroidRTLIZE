@@ -1,11 +1,11 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/info.semsamot/actionbar-rtlizer/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/info.semsamot/actionbar-rtlizer)
 
---> This library owner is the acount https://github.com/semsamot/ActionBarRTLizer
---> i tried to use this project and couldn't because of a privated method, i sent a
---> pull request and no body was behind the desk! so after months i decided to fix the bug
---> and put the library here for users want to use this library directly from github in their
---> Android Studios, you can also use jitpack.io to implement this library into your project using Gradle
---> after this bug has been fixed at semsamot master branch this repository will be merged. hope!
+ This library owner is the acount https://github.com/semsamot/ActionBarRTLizer
+ i tried to use this project and couldn't because of a privated method, i sent a
+ pull request and no body was behind the desk! so after months i decided to fix the bug
+ and put the library here for users want to use this library directly from github in their
+ Android Studios, you can also use jitpack.io to implement this library into your project using Gradle
+ after this bug has been fixed at semsamot master branch this repository will be merged. hope!
 
 ActionBar RTLizer (ActionBar RTL Arranger)
 ===
